@@ -29,3 +29,11 @@ This is the **public showcase only**: screenshots, feature notes and project inf
 Created by **Heperkoo / tudorek12345**.
 
 [YouTube](https://youtube.com/heperkoo) · [GitHub](https://github.com/tudorek12345)
+
+## Weapon Lab preview
+
+![Inventory finish inspection](screenshots/weapon-inspection.png)
+
+![Browser bot-practice HUD](screenshots/weapon-practice.png)
+
+These captures use a development test profile. Imported textures are shown on the selected weapon body; wear, patterns and handling are browser approximations, not a verified Counter-Strike port.
